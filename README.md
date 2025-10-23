@@ -1,2 +1,2 @@
-# Cyber-security-
+# Cyber-security
 My daily cyber security notes
